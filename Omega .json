@@ -1,7 +1,8 @@
 {
-    "url": "https://drive.google.com/uc?export=download&id=1Ifz26gjyzdJMxS_a253NxbOnbmV62Bs3",
-    "title": "Deine App",
-    "bundleId": "com.deineapp.bundleid",
-    "version": "1.0.0",
-    "minimumOSVersion": "13.0"
+  "url": "https://drive.google.com/uc?export=download&id=1Ifz26gjyzdJMxS_a253NxbOnbmV62Bs3",
+  "title": "Deine App",           
+  "name": "Deine App",           
+  "bundleId": "com.deineapp.bundleid",
+  "version": "1.0.0",
+  "minimumOSVersion": "13.0"
 }
